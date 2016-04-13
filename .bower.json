@@ -1,0 +1,42 @@
+{
+  "name": "babel-browser-support",
+  "version": "5.8.25",
+  "authors": [
+    "yanghuabei <yanghuabei@baidu.com>"
+  ],
+  "description": "babel browser polyfill and external helpers release",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yanghuabei/babel-browser-support.git"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "babel",
+    "browser-polyfill",
+    "es6",
+    "es2015",
+    "javascript",
+    "external",
+    "helpers"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yanghuabei/babel-browser-support",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "5.8.25",
+  "_resolution": {
+    "type": "version",
+    "tag": "5.8.25",
+    "commit": "e232f84ee88df13d63c6f147cb0bc5ca7f8878dc"
+  },
+  "_source": "git://github.com/yanghuabei/babel-browser-support.git",
+  "_target": "=5.8.25",
+  "_originalSource": "babel-browser-support"
+}
